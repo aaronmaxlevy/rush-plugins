@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "rush-sort-package-json",
+      "comment": "Upgrading rush-sdk and node-core-library to 5.139.0 and 5.9.0 respectively",
+      "type": "patch"
+    }
+  ],
+  "packageName": "rush-sort-package-json"
+}

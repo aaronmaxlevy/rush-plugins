@@ -11,11 +11,11 @@ importers:
   ../../rush-plugins/rush-archive-project-plugin:
     dependencies:
       '@rushstack/node-core-library':
-        specifier: 3.62.0
-        version: 3.62.0(@types/node@18.17.15)
+        specifier: 5.9.0
+        version: 5.9.0(@types/node@18.17.15)
       '@rushstack/rush-sdk':
-        specifier: 5.62.4
-        version: 5.62.4
+        specifier: 5.139.0
+        version: 5.139.0(@types/node@18.17.15)
       inquirer:
         specifier: ~8.2.0
         version: 8.2.6
@@ -69,11 +69,11 @@ importers:
   ../../rush-plugins/rush-audit-cache-plugin:
     dependencies:
       '@rushstack/node-core-library':
-        specifier: 3.62.0
-        version: 3.62.0(@types/node@18.17.15)
+        specifier: 5.9.0
+        version: 5.9.0(@types/node@18.17.15)
       '@rushstack/rush-sdk':
-        specifier: 5.62.4
-        version: 5.62.4
+        specifier: 5.139.0
+        version: 5.139.0(@types/node@18.17.15)
       commander:
         specifier: ~9.4.0
         version: 9.4.1
@@ -103,8 +103,8 @@ importers:
   ../../rush-plugins/rush-dep-graph-plugin:
     dependencies:
       '@rushstack/node-core-library':
-        specifier: 3.62.0
-        version: 3.62.0(@types/node@18.17.15)
+        specifier: 5.9.0
+        version: 5.9.0(@types/node@18.17.15)
       '@rushstack/rush-sdk':
         specifier: ^5.139.0
         version: 5.140.0(@types/node@18.17.15)
@@ -164,11 +164,11 @@ importers:
   ../../rush-plugins/rush-git-lfs-plugin:
     dependencies:
       '@rushstack/node-core-library':
-        specifier: 3.62.0
-        version: 3.62.0(@types/node@18.17.15)
+        specifier: 5.9.0
+        version: 5.9.0(@types/node@18.17.15)
       '@rushstack/rush-sdk':
-        specifier: 5.62.4
-        version: 5.62.4
+        specifier: 5.139.0
+        version: 5.139.0(@types/node@18.17.15)
       chalk:
         specifier: 4.1.2
         version: 4.1.2
@@ -216,11 +216,11 @@ importers:
   ../../rush-plugins/rush-init-project-plugin:
     dependencies:
       '@rushstack/node-core-library':
-        specifier: 3.62.0
-        version: 3.62.0(@types/node@18.17.15)
+        specifier: 5.9.0
+        version: 5.9.0(@types/node@18.17.15)
       '@rushstack/rush-sdk':
-        specifier: 5.62.4
-        version: 5.62.4
+        specifier: 5.139.0
+        version: 5.139.0(@types/node@18.17.15)
       '@types/inquirer-autocomplete-prompt':
         specifier: ~3.0.0
         version: 3.0.3
@@ -310,8 +310,8 @@ importers:
   ../../rush-plugins/rush-lint-staged-plugin:
     dependencies:
       '@rushstack/node-core-library':
-        specifier: 3.62.0
-        version: 3.62.0(@types/node@18.17.15)
+        specifier: 5.9.0
+        version: 5.9.0(@types/node@18.17.15)
       lint-staged:
         specifier: 12.3.4
         version: 12.3.4
@@ -338,8 +338,8 @@ importers:
   ../../rush-plugins/rush-migrate-subspace-plugin:
     dependencies:
       '@rushstack/node-core-library':
-        specifier: 3.62.0
-        version: 3.62.0(@types/node@18.17.15)
+        specifier: 5.9.0
+        version: 5.9.0(@types/node@18.17.15)
       '@rushstack/rush-sdk':
         specifier: ^5.139.0
         version: 5.140.0(@types/node@18.17.15)
@@ -387,11 +387,11 @@ importers:
   ../../rush-plugins/rush-print-log-if-error-plugin:
     dependencies:
       '@rushstack/node-core-library':
-        specifier: 3.62.0
-        version: 3.62.0(@types/node@18.17.15)
+        specifier: 5.9.0
+        version: 5.9.0(@types/node@18.17.15)
       '@rushstack/rush-sdk':
-        specifier: 5.62.4
-        version: 5.62.4
+        specifier: 5.139.0
+        version: 5.139.0(@types/node@18.17.15)
     devDependencies:
       '@rushstack/eslint-config':
         specifier: 3.3.4
@@ -415,11 +415,11 @@ importers:
   ../../rush-plugins/rush-sort-package-json:
     dependencies:
       '@rushstack/node-core-library':
-        specifier: 3.62.0
-        version: 3.62.0(@types/node@18.17.15)
+        specifier: 5.9.0
+        version: 5.9.0(@types/node@18.17.15)
       '@rushstack/rush-sdk':
-        specifier: 5.62.4
-        version: 5.62.4
+        specifier: 5.139.0
+        version: 5.139.0(@types/node@18.17.15)
       sort-package-json:
         specifier: 1.54.0
         version: 1.54.0
@@ -446,11 +446,11 @@ importers:
   ../../rush-plugins/rush-upgrade-self-plugin:
     dependencies:
       '@rushstack/node-core-library':
-        specifier: 3.62.0
-        version: 3.62.0(@types/node@18.17.15)
+        specifier: 5.9.0
+        version: 5.9.0(@types/node@18.17.15)
       '@rushstack/rush-sdk':
-        specifier: 5.62.4
-        version: 5.62.4
+        specifier: 5.139.0
+        version: 5.139.0(@types/node@18.17.15)
       fast-glob:
         specifier: ~3.2.7
         version: 3.2.12
@@ -1553,8 +1553,8 @@ packages:
       - '@types/node'
     dev: true
 
-  /@rushstack/lookup-by-path@0.4.1(@types/node@18.17.15):
-    resolution: {integrity: sha512-ttoKLNxqr4qy0WhpK3p2lZ+zNyK+FJ9zQu0ipJZrt+j5I3WAWpomKkerS8Eu9t3WC5xbNj6q5f04kfEnMKlXEg==}
+  /@rushstack/lookup-by-path@0.4.0(@types/node@18.17.15):
+    resolution: {integrity: sha512-DXv9RIFZOjg4aMSxMt/xgZsCcz2tQuHjARGG/k5Ts2Ffkjrsd5XN9PnU6yki7d0Pxsn7UCUj8W1s9PoP+5KEbg==}
     peerDependencies:
       '@types/node': '*'
     peerDependenciesMeta:
@@ -1564,18 +1564,15 @@ packages:
       '@types/node': 18.17.15
     dev: false
 
-  /@rushstack/node-core-library@3.45.0:
-    resolution: {integrity: sha512-YMuIJl19vQT1+g/OU9mLY6T5ZBT9uDlmeXExDQACpGuxTJW+LHNbk/lRX+eCApQI2eLBlaL4U68r3kZlqwbdmw==}
+  /@rushstack/lookup-by-path@0.4.1(@types/node@18.17.15):
+    resolution: {integrity: sha512-ttoKLNxqr4qy0WhpK3p2lZ+zNyK+FJ9zQu0ipJZrt+j5I3WAWpomKkerS8Eu9t3WC5xbNj6q5f04kfEnMKlXEg==}
+    peerDependencies:
+      '@types/node': '*'
+    peerDependenciesMeta:
+      '@types/node':
+        optional: true
     dependencies:
-      '@types/node': 12.20.24
-      colors: 1.2.5
-      fs-extra: 7.0.1
-      import-lazy: 4.0.0
-      jju: 1.4.0
-      resolve: 1.17.0
-      semver: 7.3.8
-      timsort: 0.3.0
-      z-schema: 5.0.5
+      '@types/node': 18.17.15
     dev: false
 
   /@rushstack/node-core-library@3.60.0(@types/node@18.17.15):
@@ -1595,24 +1592,6 @@ packages:
       semver: 7.5.4
       z-schema: 5.0.5
     dev: true
-
-  /@rushstack/node-core-library@3.62.0(@types/node@18.17.15):
-    resolution: {integrity: sha512-88aJn2h8UpSvdwuDXBv1/v1heM6GnBf3RjEy6ZPP7UnzHNCqOHA2Ut+ScYUbXcqIdfew9JlTAe3g+cnX9xQ/Aw==}
-    peerDependencies:
-      '@types/node': '*'
-    peerDependenciesMeta:
-      '@types/node':
-        optional: true
-    dependencies:
-      '@types/node': 18.17.15
-      colors: 1.2.5
-      fs-extra: 7.0.1
-      import-lazy: 4.0.0
-      jju: 1.4.0
-      resolve: 1.22.8
-      semver: 7.5.4
-      z-schema: 5.0.5
-    dev: false
 
   /@rushstack/node-core-library@5.9.0(@types/node@18.17.15):
     resolution: {integrity: sha512-MMsshEWkTbXqxqFxD4gcIUWQOCeBChlGczdZbHfqmNZQFLHB3yWxDFSMHFUdu2/OB9NUk7Awn5qRL+rws4HQNg==}
@@ -1645,6 +1624,14 @@ packages:
       '@types/node': 18.17.15
     dev: true
 
+  /@rushstack/package-deps-hash@4.2.5(@types/node@18.17.15):
+    resolution: {integrity: sha512-nxosz85zPBJ+xv75eZlhSbpIoZ5wBdUlPKwmVvE9A1Y0lJf6K0XAMrwkgub1dGGeAip2cgFz4sW8gYo4ThjrIA==}
+    dependencies:
+      '@rushstack/node-core-library': 5.9.0(@types/node@18.17.15)
+    transitivePeerDependencies:
+      - '@types/node'
+    dev: false
+
   /@rushstack/package-deps-hash@4.2.6(@types/node@18.17.15):
     resolution: {integrity: sha512-5OQCtKEfWdZeSd5nzA/A2bOZNlEStNFo4BsvjYmH/YjoWDPHEXV9UIRBQtUXSs29hmPfYpoeYaDZSoWwaMv4gg==}
     dependencies:
@@ -1660,6 +1647,19 @@ packages:
       strip-json-comments: 3.1.1
     dev: true
 
+  /@rushstack/rush-sdk@5.139.0(@types/node@18.17.15):
+    resolution: {integrity: sha512-H+bvUK/fwaL7z5vDZWo1PGDYRWtXUka/kfwkwIOCJlWKZiOn1wuvRkDoaZ5mlCP0jLh/BiizjhT7Bl/r7VkdGA==}
+    dependencies:
+      '@rushstack/lookup-by-path': 0.4.0(@types/node@18.17.15)
+      '@rushstack/node-core-library': 5.9.0(@types/node@18.17.15)
+      '@rushstack/package-deps-hash': 4.2.5(@types/node@18.17.15)
+      '@rushstack/terminal': 0.14.2(@types/node@18.17.15)
+      '@types/node-fetch': 2.6.2
+      tapable: 2.2.1
+    transitivePeerDependencies:
+      - '@types/node'
+    dev: false
+
   /@rushstack/rush-sdk@5.140.0(@types/node@18.17.15):
     resolution: {integrity: sha512-t1FyijEIiKrS79L18X8nZNn9BdlI9fvEWB0q1s+Ui+1UX6Nh42dg508KS0on28Pftzxcn75FyLKuYY5uE/nvbQ==}
     dependencies:
@@ -1671,14 +1671,6 @@ packages:
       tapable: 2.2.1
     transitivePeerDependencies:
       - '@types/node'
-    dev: false
-
-  /@rushstack/rush-sdk@5.62.4:
-    resolution: {integrity: sha512-4dBir//6Vk260DMYNg8g/F8SDa/O5KkoQBGAnz3rleyD8mWt448cRaQvyGSScvXngLkDtsxFMb1bIBpIjOx0Ww==}
-    dependencies:
-      '@rushstack/node-core-library': 3.45.0
-      '@types/node-fetch': 1.6.9
-      tapable: 2.2.1
     dev: false
 
   /@rushstack/terminal@0.14.2(@types/node@18.17.15):
@@ -1874,12 +1866,6 @@ packages:
   /@types/minimatch@5.1.2:
     resolution: {integrity: sha512-K0VQKziLUWkVKiRVrx4a40iPaxTUefQmjtkQofBkYRcoaaL/8rhwDWww9qWbrgicNOgnpIsMxyNIUM4+n6dUIA==}
 
-  /@types/node-fetch@1.6.9:
-    resolution: {integrity: sha512-n2r6WLoY7+uuPT7pnEtKJCmPUGyJ+cbyBR8Avnu4+m1nzz7DwBVuyIvvlBzCZ/nrpC7rIgb3D6pNavL7rFEa9g==}
-    dependencies:
-      '@types/node': 18.17.15
-    dev: false
-
   /@types/node-fetch@2.6.11:
     resolution: {integrity: sha512-24xFj9R5+rfQJLRyM56qh+wnVSYhyXC2tkoBndtY0U+vubqNsYXGjufB2nn8Q6gt0LrARwL6UBtMCSVCwl4B1g==}
     dependencies:
@@ -1892,10 +1878,6 @@ packages:
     dependencies:
       '@types/node': 18.17.15
       form-data: 3.0.2
-    dev: false
-
-  /@types/node@12.20.24:
-    resolution: {integrity: sha512-yxDeaQIAJlMav7fH5AQqPH1u8YIuhYJXYBzxaQ4PifsU0GDO38MSdmEDeRlIxrKbC6NbEaaEHDanWb+y30U8SQ==}
     dev: false
 
   /@types/node@18.17.15:
@@ -3204,6 +3186,7 @@ packages:
   /colors@1.2.5:
     resolution: {integrity: sha512-erNRLao/Y3Fv54qUa0LBB+//Uf3YwMUmdJinN20yMXm9zdKKqH9wt7R9IIVZ+K7ShzfpLV/Zg8+VyrBJYB4lpg==}
     engines: {node: '>=0.1.90'}
+    dev: true
 
   /combined-stream@1.0.8:
     resolution: {integrity: sha512-FQN4MRfuJeHf7cBbBMJFXhKSDq+2kAArBlmRBvcvFE5BB1HZKXtSFASDhdlz9zOYwxh8lDdnvmMOe/+5cdoEdg==}
@@ -5907,6 +5890,7 @@ packages:
 
   /lodash.isequal@4.5.0:
     resolution: {integrity: sha512-pDo3lu8Jhfjqls6GkMgpahsF9kCyayhgykjyLMNFTKWrpVdAQtYyB4muAMWozBB4ig/dtWAmsMxLEI8wuz+DYQ==}
+    dev: true
 
   /lodash.merge@4.6.2:
     resolution: {integrity: sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==}
@@ -7012,12 +6996,6 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /resolve@1.17.0:
-    resolution: {integrity: sha512-ic+7JYiV8Vi2yzQGFWOkiZD5Z9z7O2Zhm9XMaTxdJExKasieFCr+yXZ/WmXsckHiKl12ar0y6XiXDx3m4RHn1w==}
-    dependencies:
-      path-parse: 1.0.7
-    dev: false
-
   /resolve@1.19.0:
     resolution: {integrity: sha512-rArEXAgsBG4UgRGcynxWIWKFvh/XZCcS8UJdHhwy91zwAvCZIbcs+vAbflgBnNjYMs/i/i+/Ux6IZhML1yPvxg==}
     dependencies:
@@ -7165,14 +7143,6 @@ packages:
     resolution: {integrity: sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==}
     hasBin: true
     dev: true
-
-  /semver@7.3.8:
-    resolution: {integrity: sha512-NB1ctGL5rlHrPJtFDVIVzTyQylMLu9N9VICA6HSFJo8MCGVTMW6gfpicwKmmK/dAjTOrqu5l63JJOpDSrAis3A==}
-    engines: {node: '>=10'}
-    hasBin: true
-    dependencies:
-      lru-cache: 6.0.0
-    dev: false
 
   /semver@7.5.4:
     resolution: {integrity: sha512-1bCSESV6Pv+i21Hvpxp3Dx+pSD8lIPt8uVjRrxAUt/nbswYc+tK6Y2btiULjd4+fnq15PX+nqQDC7Oft7WkwcA==}
@@ -7711,10 +7681,6 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: false
 
-  /timsort@0.3.0:
-    resolution: {integrity: sha512-qsdtZH+vMoCARQtyod4imc2nIJwg9Cc7lPRrw9CzF8ZKR0khdr8+2nX80PBhET3tcyTtJDxAffGh2rXH4tyU8A==}
-    dev: false
-
   /title-case@2.1.1:
     resolution: {integrity: sha512-EkJoZ2O3zdCz3zJsYCsxyq2OC5hrxR9mfdd5I+w8h/tmFfeOxJ+vvkxsKxdmN0WtS9zLdHEgfgVOiMVgv+Po4Q==}
     dependencies:
@@ -8029,6 +7995,7 @@ packages:
   /validator@13.12.0:
     resolution: {integrity: sha512-c1Q0mCiPlgdTVVVIJIrBuxNicYE+t/7oKeI9MWLj3fh/uq2Pxh/3eeWbVZ4OcGW1TUf53At0njHw5SMdA3tmMg==}
     engines: {node: '>= 0.10'}
+    dev: true
 
   /walker@1.0.8:
     resolution: {integrity: sha512-ts/8E8l5b7kY0vlWLewOkDXMmPdLcVV4GmOQLyxuSswIJsweeFZtAsMF7k1Nszz+TYBQrlYRmzOnr398y1JemQ==}
@@ -8209,3 +8176,4 @@ packages:
       validator: 13.12.0
     optionalDependencies:
       commander: 9.4.1
+    dev: true

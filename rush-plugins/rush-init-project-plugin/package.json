@@ -29,8 +29,8 @@
     "test": "heft test"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "3.62.0",
-    "@rushstack/rush-sdk": "5.62.4",
+    "@rushstack/node-core-library": "5.9.0",
+    "@rushstack/rush-sdk": "5.139.0",
     "@types/inquirer-autocomplete-prompt": "~3.0.0",
     "blessed": "~0.1.81",
     "blessed-contrib": "~4.11.0",
